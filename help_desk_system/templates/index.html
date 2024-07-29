@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Help Desk System</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Help Desk Ticketing System</h1>
+    <a href="{{ url_for('submit_ticket') }}">Submit a Ticket</a>
+    <a href="{{ url_for('view_tickets') }}">View Tickets</a>
+</body>
+</html>
