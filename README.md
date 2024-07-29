@@ -18,15 +18,26 @@ Step 2: Project Structure
 1. Create a project folder and structure it as follows:
 
 help_desk_system/
+
 │
- ├── app.py
- ├── templates/
+
+├── app.py
+ 
+├── templates/
+ 
 │   ├── index.html
+
 │   ├── submit_ticket.html
+
 │   ├── view_tickets.html
+
  ├── static/
+ 
 │   ├── style.css
+
  ├── db/
+ 
+ 
 │   └── helpdesk.db
 
 ## Installation
