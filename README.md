@@ -7,15 +7,17 @@ This is a simple help desk system built with Flask and SQLite. It allows users t
 Step 1: Set Up Your Development Environment
 
 1. Install Python:
-•	Ensure you have Python installed. You can download it from python.org.
+•	 Ensure you have Python installed. You can download it from python.org.
 2. Install Flask:
-• pip install Flask
+
+pip install Flask
+
 3. Install SQLite:
-•	SQLite is included with Python, so no additional installation is required.
+•  SQLite is included with Python, so no additional installation is required.
 
 Step 2: Project Structure
 
-1. Create a project folder and structure it as follows:
+Create a project folder and structure it as follows:
 
 help_desk_system/
 
